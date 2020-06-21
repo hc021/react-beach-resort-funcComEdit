@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import React from 'react';
 import { withRoomConsumer } from '../context';
 import Loading from '../pages/Loading';
 import RoomsList from './RoomsList';
